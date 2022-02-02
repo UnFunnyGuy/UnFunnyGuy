@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![UnFunnyGuy's github stats](https://github-readme-stats.vercel.app/api?username=UnFunnyGuy&show_icons=true&theme=radical)
 <!--
 **UnFunnyGuy/UnFunnyGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
