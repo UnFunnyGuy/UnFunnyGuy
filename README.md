@@ -26,9 +26,7 @@
 
 ### ⚡ Stats
 
-<p align="center">
-  <img src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Stats.svg" alt="UnFunnyGuy">
-</p>
+[<img align="left" width="410" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg">](#)
 
 ### 📆 History
 
