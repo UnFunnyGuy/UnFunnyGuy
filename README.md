@@ -27,8 +27,8 @@
 ### ⚡ Stats
 
 <div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg" alt="image1" style="float:left;">
-  <div style="float:right;">
+  <img src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg" alt="image1" style="float:left;width:380px;">
+  <div style="float:right; width:320px;">
     <img src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg" alt="image2">
     <img src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg" alt="image3">
   </div>
