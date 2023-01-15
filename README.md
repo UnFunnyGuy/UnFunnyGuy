@@ -28,9 +28,9 @@
 
 [<img align="left" width="440" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg">](#)
 
-[<img align="right" width="440" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">]
+[<img align="right" width="360" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">]
 
-[<img align="center" width="840" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Analysis.svg">](#)
+[<img align="center" width="810" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Analysis.svg">](#)
 
 ### 🔍 Analysis
 
