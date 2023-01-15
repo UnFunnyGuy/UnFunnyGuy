@@ -26,9 +26,9 @@
 
 ### ⚡ Stats
 
-[<img align="left" width="390" alt="Stats" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg">]()
-[<img align="right" width="380" alt="Calendar" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">]()
-[<img align="right" width="380" alt="Activity" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg">]()
+[<img align="left" width="400" alt="Stats" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg">]()
+[<img align="right" width="400" alt="Calendar" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">]()
+[<img align="right" width="400" alt="Activity" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg">]()
 
 [<img align="center" width="70%" alt="Analysis" src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Analysis.svg">]()
 
