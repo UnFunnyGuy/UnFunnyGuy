@@ -28,9 +28,11 @@
 
 [<img align="left" width="440" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg">](#)
 
-[<img align="right" width="300" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">]
+[<img align="left" width="340" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">](#)
 
-[<img align="center" width="810" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Analysis.svg">](#)
+[<img align="right" width="340" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg">](#)
+
+[<img align="center" width="100%" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Analysis.svg">](#)
 
 ### 🔍 Analysis
 
