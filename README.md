@@ -38,6 +38,14 @@
   <img src="https://github.com/UnFunnyGuy/UnFunnyGuy/actions/workflows/main.yml/badge.svg" alt="https://github.com/UnFunnyGuy/UnFunnyGuy/actions/workflows/main.yml">
 </p>
 
+### ⚡ Stats
+
 <p align="center">
   <img src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Stats.svg" alt="UnFunnyGuy">
+</p>
+
+### 📆 History
+
+<p align="center">
+  <img src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Calendar.svg" alt="UnFunnyGuy">
 </p>
