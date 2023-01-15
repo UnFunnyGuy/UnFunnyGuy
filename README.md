@@ -28,7 +28,7 @@
 
 [<img align="left" width="440" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg">](#)
 
-[<img align="right" width="100" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">]
+[<img align="right" width="300" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">]
 
 [<img align="center" width="810" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Analysis.svg">](#)
 
