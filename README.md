@@ -5,6 +5,20 @@
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/).
 - 📱 Device I own is [Realme XT](https://www.gsmarena.com/realme_xt-9813.php) (RMX 1921) it's shit.
 
+### 📦 My Apps
+
+- [Madness R](https://play.google.com/store/apps/details?id=com.unfunnyguy69.subs).
+
+  > Substratum theme - lock screen clocks for android 11,12,13
+
+- [Madness Q](https://play.google.com/store/apps/details?id=com.unfunnyguy.subs).
+
+  > Madness R but for android Q
+
+- [Elegant Splash](https://play.google.com/store/apps/details?id=com.unfunnyguy.elegant)
+
+  > Wallpaper app based on unsplash API, with curated collections and wallpapers
+
 - 📫 You can reach me by my email address sarathexp@gmail.com.
 - 📫Lets Connect through Twitter or Telegram.
 
