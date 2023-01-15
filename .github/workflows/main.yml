@@ -9,34 +9,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: 🦑 Medias
+      - name: ⚡ Stats
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: medias.svg
+          filename: Stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          config_order: anilist, music
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.PLAYLIST }}
-          plugin_music_limit: 9
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
-      - name: 🦑 Achievements
+      - name: 📆 Calendar
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: achievements.svg
+          filename: calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+  
