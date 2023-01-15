@@ -26,31 +26,13 @@
 
 ### ⚡ Stats
 
-<div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg" alt="image1" style="float:left;width:380px;">
-  <div style="float:right; width:250px;">
-    <img src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg" alt="image2">
-    <img src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg" alt="image3">
-  </div>
-</div>
+[<img align="left" width="390" alt="Stats" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg">]()
+[<img align="right" width="380" alt="Calendar" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">]()
+[<img align="right" width="380" alt="Activity" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg">]()
 
-### 🔍 Analysis
+[<img align="center" width="70%" alt="Analysis" src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Analysis.svg">]()
 
-<p align="center">
-  <img src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Analysis.svg" alt="UnFunnyGuy">
-</p>
-
-### 📉 Habits
-
-<p align="center">
-  <img src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Habits.svg" alt="UnFunnyGuy">
-</p>
-
-### 🕕 Activity
-
-<p align="center">
-  <img src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Activity.svg" alt="UnFunnyGuy">
-</p>
+[<img align="center" width="70%" alt="Habits" src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Habits.svg">]()
 
 ### 💻 Current Machine
 
