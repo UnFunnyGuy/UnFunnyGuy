@@ -26,13 +26,13 @@
 
 ### ⚡ Stats
 
-[<img align="left" width="70%" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg">](#)
-
-[<img align="left" width="30%" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">](#)
-
-[<img align="left" width="30%" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg">](#)
-
-[<img align="center" width="90%" alt="UnFunnyGuy" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Analysis.svg">](#)
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg" alt="image1" style="float:left;">
+  <div style="float:right;">
+    <img src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg" alt="image2">
+    <img src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg" alt="image3">
+  </div>
+</div>
 
 ### 🔍 Analysis
 
