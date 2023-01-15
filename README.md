@@ -17,24 +17,27 @@
 </a>
 <br><br>
 
-
 ### 💻 Current working environments
+
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 [![Android 13](https://img.shields.io/badge/Android13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
 
 ### 💻 Current Machine
+
 #### Acer Aspire 7
+
 - AMD Ryzen 5-5500U
 - Nvidia GTX 1650
 - 24GB DDR4 3200MHz RAM
 - 512GB NVMe SSD
 
 ## Metrics
+
 <br>
 <p align="center">
-  <img src="" alt="">
+  <img src="https://github.com/UnFunnyGuy/UnFunnyGuy/actions/workflows/main.yml/badge.svg" alt="https://github.com/UnFunnyGuy/UnFunnyGuy/actions/workflows/main.yml">
 </p>
 
 <p align="center">
-  <img src="" alt="UnFunnyGuy">
+  <img src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Stats.svg" alt="UnFunnyGuy">
 </p>
