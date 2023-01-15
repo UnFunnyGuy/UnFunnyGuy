@@ -6,7 +6,7 @@
 - 📱 Device I own is [Realme XT](https://www.gsmarena.com/realme_xt-9813.php) (RMX 1921) it's shit.
 
 - 📫 You can reach me by my email address sarathexp@gmail.com.
-- 📫Lets Connect through Twitter or Telegram.
+- 📫 Lets Connect through Twitter or Telegram.
 
 <a href="https://twitter.com/sarathexp">
   <img align="left" alt="sarath's Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
@@ -28,7 +28,7 @@
 
 [<img align="left" width="405" alt="Stats" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg">]()
 [<img align="right" width="400" alt="Calendar" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">]()
-[<img align="right" width="400" alt="Activity" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg">]()
+[<img align="right" width="400" height="400" alt="Activity" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg">]()
 
 [<img align="center" width="85%" alt="Analysis" src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Analysis.svg">]()
 
