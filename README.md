@@ -7,11 +7,11 @@
 
 ### 📦 My Apps
 
-- [Madness R](https://play.google.com/store/apps/details?id=com.unfunnyguy69.subs).
+- [Madness R](https://play.google.com/store/apps/details?id=com.unfunnyguy69.subs)
 
   > Substratum theme - lock screen clocks for android 11,12,13
 
-- [Madness Q](https://play.google.com/store/apps/details?id=com.unfunnyguy.subs).
+- [Madness Q](https://play.google.com/store/apps/details?id=com.unfunnyguy.subs)
 
   > Madness R but for android Q
 
@@ -40,9 +40,9 @@
 
 ### ⚡ Stats
 
-[<img align="left" width="405" alt="Stats" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg">]()
-[<img align="right" width="400" alt="Calendar" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">]()
-[<img align="right" width="400" alt="Activity" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg">]()
+[<img align="left" width="400" alt="Stats" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Stats.svg">]()
+[<img align="right" width="395" alt="Calendar" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Calendar.svg">]()
+[<img align="right" width="395" alt="Activity" src="https://raw.githubusercontent.com/UnFunnyGuy/UnFunnyGuy/main/Activity.svg">]()
 
 [<img align="center" width="85%" alt="Analysis" src="https://github.com/UnFunnyGuy/UnFunnyGuy/blob/main/Analysis.svg">]()
 
