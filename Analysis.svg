@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 4.12mb of code in 888 edited files across 699 commits</small>
+                <small>estimation from 4.14mb of code in 933 edited files across 708 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -34,8 +34,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>2.89k lines</div>
-                                <div>88.3 kB</div>
+                                <div>3.33k lines</div>
+                                <div>102 kB</div>
                             </small>
                         </div>
                     </section>
