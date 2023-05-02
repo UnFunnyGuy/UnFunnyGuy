@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
-          plugin_calendar_limit: 3 #limit calendar to 3 years
+          plugin_calendar_limit: 2 #limit calendar to 3 years
 
       - name: 🕕 Recent activity
         if: ${{ success() || failure() }}
@@ -37,9 +37,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 6
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_limit: 10
+          plugin_activity_days: 90
+          plugin_activity_filter: push, issue, pr, fork,
 
       - name: 📉 Recent activity charts
         if: ${{ success() || failure() }}
@@ -49,7 +49,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
-          plugin_habits_facts: no
+          plugin_habits_facts: yes
+          plugin_habits_from: 300
+          plugin_habits_days: 30
           plugin_habits_charts: yes
           config_timezone: Asia/Kolkata
 
