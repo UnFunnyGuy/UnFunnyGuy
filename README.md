@@ -2,7 +2,7 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sarath, a.k.a unfunnyguy</h2>
 </p>
 
-- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/).
+- 🌱 I’m currently learning [RUST](https://www.rust-lang.org/)(will take a while).
 - 📱 Device I own is [Realme XT](https://www.gsmarena.com/realme_xt-9813.php) (RMX 1921) it's shit.
 
 ### 📦 My Apps
