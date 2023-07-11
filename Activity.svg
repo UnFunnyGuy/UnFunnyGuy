@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1349" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1033" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">UnFunnyGuy/jJoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3f7ddce</div>
+                                        <div class="message">reset fields after submitting contact request</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">UnFunnyGuy/jJoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3342949</div>
+                                        <div class="message">contact us page</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -257,126 +297,6 @@ backup user uploaded files to drive using service account and drive api</div>
                                     <div class="commit">
                                         <div class="sha">#f34fec5</div>
                                         <div class="message">Merge branch 'develop'</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">UnFunnyGuy/jJoy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#45055ef</div>
-                                        <div class="message">Merge branch 'test' into develop</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 52 commits in
-                                        <span class="repo">UnFunnyGuy/jJoy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a6a2f49</div>
-                                        <div class="message">more ui changes //untracked</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b7f475</div>
-                                        <div class="message">Coroutine handler changes for long running tasks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5bfd6b</div>
-                                        <div class="message">Apis Annotated
-
-//TODO: needs to cleanup impl</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edfd7ed</div>
-                                        <div class="message">Httpmethod Annotations to process requests
-
-this will help check requests method and fetch body much elegantly</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5fa146</div>
-                                        <div class="message">server cleanups and imprv</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9606f03</div>
-                                        <div class="message">removed a duplicated BaseReposne data class that was causing me pain</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd07797</div>
-                                        <div class="message">di improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db9d150</div>
-                                        <div class="message">user login</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c264e23</div>
-                                        <div class="message">cleanups</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#123da39</div>
-                                        <div class="message">baxkend changes // untracked</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#326917b</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/develop' into develop</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6c3a91</div>
-                                        <div class="message">server init</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6beee4f</div>
-                                        <div class="message">sever init</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf8198f</div>
-                                        <div class="message">Job UseCases</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f9c1b2</div>
-                                        <div class="message">ApiContext extension to decode body and throw exception if its invalid</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1489f42</div>
-                                        <div class="message">untracked</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53bcdcb</div>
-                                        <div class="message">ktor libs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16e5598</div>
-                                        <div class="message">cleanups and refactor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0cbf5a1</div>
-                                        <div class="message">fix button bs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#819a502</div>
-                                        <div class="message">jvm target to 17</div>
                                     </div>
                                 </div>
                             </section>
