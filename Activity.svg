@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="800" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1649" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,376 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 31 commits in
+                                        <span class="repo">UnFunnyGuy/jjoy-server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f7bf12e</div>
+                                        <div class="message">CORS changes for new header</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b62cb9</div>
+                                        <div class="message">handle admin token and logins</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2382260</div>
+                                        <div class="message">cleanups</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41cab7f</div>
+                                        <div class="message">cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#193a7af</div>
+                                        <div class="message">Server setup scripts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74bcc87</div>
+                                        <div class="message">Gradle Deployment Task</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa5dbe9</div>
+                                        <div class="message">Bump Shadow to 8.1.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43c67c2</div>
+                                        <div class="message">static files updated</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4ea3f1</div>
+                                        <div class="message">enable info logs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02f813b</div>
+                                        <div class="message">serve static files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afafbbe</div>
+                                        <div class="message">bank form</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63019bd</div>
+                                        <div class="message">more routes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d61520</div>
+                                        <div class="message">job update and delete routes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b029fa</div>
+                                        <div class="message">More admin routes opened</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46a43e6</div>
+                                        <div class="message">more serialization changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eddf5cb</div>
+                                        <div class="message">Custom Monitoring</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6e5099</div>
+                                        <div class="message">Admin getAllJobs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2adee7</div>
+                                        <div class="message">untracked</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6c610b</div>
+                                        <div class="message">update .gitignore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71924ab</div>
+                                        <div class="message">cleanups</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 90 commits in
+                                        <span class="repo">UnFunnyGuy/jJoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fb28350</div>
+                                        <div class="message">footer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27950ad</div>
+                                        <div class="message">reformat</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bae2bde</div>
+                                        <div class="message">Job details Improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c4120e</div>
+                                        <div class="message">fix registration page
+
+fix an issue when the page does not navigate to home after signin</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1e2bf9</div>
+                                        <div class="message">users page init</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba1c6c3</div>
+                                        <div class="message">job update and delete</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50abae8</div>
+                                        <div class="message">more refactor and changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ca6834</div>
+                                        <div class="message">more routing logic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e462de</div>
+                                        <div class="message">refactor routes and other mappings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3112d55</div>
+                                        <div class="message">Admin Edit Job Page Init</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f414eb</div>
+                                        <div class="message">List Wrapper with different state handler</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4311700</div>
+                                        <div class="message">more fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eaee00</div>
+                                        <div class="message">post issue resolved</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#547cd8c</div>
+                                        <div class="message">fix test</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#180e4d9</div>
+                                        <div class="message">Admin Panel Improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0433040</div>
+                                        <div class="message">fix bg</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f7ddce</div>
+                                        <div class="message">reset fields after submitting contact request</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3342949</div>
+                                        <div class="message">contact us page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97d8496</div>
+                                        <div class="message">Increase padding between search option view and simple grid</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d92f20</div>
+                                        <div class="message">Service Description page improvements for mobile view</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">UnFunnyGuy/jJoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#761f5d1</div>
+                                        <div class="message">copy rights link added</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">UnFunnyGuy/jJoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#65b1ce0</div>
+                                        <div class="message">footer fix</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 68 commits in
+                                        <span class="repo">UnFunnyGuy/jJoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#80e8e98</div>
+                                        <div class="message">reformat</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5abc7b</div>
+                                        <div class="message">dashboard improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6add742</div>
+                                        <div class="message">admin logins and token management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd4b4bd</div>
+                                        <div class="message">re evaluate dimension base, and change theme color</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdfe5e6</div>
+                                        <div class="message">update brand logo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6ef4c6</div>
+                                        <div class="message">update baseUrl</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4437797</div>
+                                        <div class="message">Loader Improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d871e8a</div>
+                                        <div class="message">remove old server impl</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4b8068</div>
+                                        <div class="message">.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#110d9a5</div>
+                                        <div class="message">bump kobweb to 0.13.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15e031c</div>
+                                        <div class="message">remove unused module</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#016b8a2</div>
+                                        <div class="message">kobweb app root fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#663b310</div>
+                                        <div class="message">bump kobweb cli version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95dd57d</div>
+                                        <div class="message">docker init</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45dbd94</div>
+                                        <div class="message">more changes to ui</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8feff6</div>
+                                        <div class="message">improved dot animation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d829ba2</div>
+                                        <div class="message">home section improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a85dffc</div>
+                                        <div class="message">privacy policy page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb28350</div>
+                                        <div class="message">footer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27950ad</div>
+                                        <div class="message">reformat</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">UnFunnyGuy/jjoy-server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c1a94dd</div>
+                                        <div class="message">Merge branch 'test' into develop</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">UnFunnyGuy/jjoy-server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">test</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2ea6bfb</div>
+                                        <div class="message">fix System env issue on dev</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -75,173 +445,6 @@
                                     <div class="commit">
                                         <div class="sha">#8aff7f1</div>
                                         <div class="message">more ui changes</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UnFunnyGuy/jjoy-server</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">test</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2218025</div>
-                                        <div class="message">Setup Release</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">UnFunnyGuy/jJoy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/test_ui</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#56339d1</div>
-                                        <div class="message">fix add job issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce420bd</div>
-                                        <div class="message">changes to home</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57bb2ed</div>
-                                        <div class="message">break point changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68d6995</div>
-                                        <div class="message">few glitches fixed, one being the nav header avatar render glitch</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">skydoves/compose-stable-marker</span>
-                                        to
-                                        <span class="repo">UnFunnyGuy/compose-stable-marker</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UnFunnyGuy/jjoy-server</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">test</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#498d535</div>
-                                        <div class="message">routes imprv</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">UnFunnyGuy/jJoy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/test_ui</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#776bff8</div>
-                                        <div class="message">more changes to ui</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b017e31</div>
-                                        <div class="message">more fixes and changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51f8e4a</div>
-                                        <div class="message">fix toast bg glitch</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">UnFunnyGuy/jJoy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/test_ui</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8044a31</div>
-                                        <div class="message">few ui imprv</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c26f2e</div>
-                                        <div class="message">dynamic dimension implementation changed to a much better one</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8f62e6</div>
-                                        <div class="message">const updated</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">UnFunnyGuy/jJoy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/test_ui</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cc27f2e</div>
-                                        <div class="message">more ui improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#decd8bf</div>
-                                        <div class="message">Search screen revamped</div>
                                     </div>
                                 </div>
                             </section>
