@@ -20,7 +20,7 @@
   > Wallpaper app based on unsplash API, with curated collections and wallpapers
 
 - 📫 You can reach me by my email address sarathexp@gmail.com.
-- 📫Lets Connect through Twitter or Telegram.
+- 📫 Lets Connect through Twitter or Telegram.
 
 <a href="https://twitter.com/sarathexp">
   <img align="left" alt="sarath's Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
