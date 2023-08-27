@@ -3,7 +3,7 @@
 </p>
 
 - 🌱 I’m currently learning [RUST](https://www.rust-lang.org/)(will take a while).
-- 📱 Device I own is [Realme XT](https://www.gsmarena.com/realme_xt-9813.php) (RMX 1921) it's shit.
+- 📱 Device I own is [Poco F5](https://www.gsmarena.com/xiaomi_poco_f5-12258.php) (marble) awaiting bootloader unlock approval.
 
 ### 📦 My Apps
 
