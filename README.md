@@ -2,8 +2,8 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sarath, a.k.a unfunnyguy</h2>
 </p>
 
-- 🌱 I’m currently learning [RUST](https://www.rust-lang.org/)(will take a while).
-- 📱 Device I own is [Poco F5](https://www.gsmarena.com/xiaomi_poco_f5-12258.php) (marble) awaiting bootloader unlock approval.
+- 🌱 I’m currently learning [RUST](https://www.rust-lang.org/)(will take a while..).
+- 📱 Device I own is [Poco F5](https://www.gsmarena.com/xiaomi_poco_f5-12258.php) (marble) #derpfest.
 
 ### 📦 My Apps
 
