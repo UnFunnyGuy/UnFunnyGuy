@@ -9,7 +9,7 @@
 
 - [Madness R](https://play.google.com/store/apps/details?id=com.unfunnyguy69.subs)
 
-  > Substratum theme - lock screen clocks for android 11,12,13
+  > Substratum theme - lock screen clocks for android 11,12,13,14
 
 - [Madness Q](https://play.google.com/store/apps/details?id=com.unfunnyguy.subs)
 
