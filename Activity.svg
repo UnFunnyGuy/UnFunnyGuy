@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="850" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1066" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,206 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">UnFunnyGuy/Elegant-Splash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">prd_release</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#333579a</div>
+                                        <div class="message">Bump Build</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30f845b</div>
+                                        <div class="message">Merge branch 'production' into prd_release</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bfa557</div>
+                                        <div class="message">Merge branch 'main' into production</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20407bb</div>
+                                        <div class="message">Merge branch 'develop'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6e9785</div>
+                                        <div class="message">Few utils Imprv</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4f51ae</div>
+                                        <div class="message">admob reload hotfix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98451a9</div>
+                                        <div class="message">service json for debug config</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">UnFunnyGuy/Elegant-Splash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d6e9785</div>
+                                        <div class="message">Few utils Imprv</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4f51ae</div>
+                                        <div class="message">admob reload hotfix</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">UnFunnyGuy/Elegant-Splash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#98451a9</div>
+                                        <div class="message">service json for debug config</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">UnFunnyGuy/Elegant-Splash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9275a30</div>
+                                        <div class="message">Remote config improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6512b3</div>
+                                        <div class="message">Inapp review holdback fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fe92ba</div>
+                                        <div class="message">cleanup</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">UnFunnyGuy/Elegant-Splash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">production</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cefcd54</div>
+                                        <div class="message">Merge branch 'main' into production</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">UnFunnyGuy/Elegant-Splash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">prd_release</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9e623b2</div>
+                                        <div class="message">Bump Build</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b579a6</div>
+                                        <div class="message">Merge branch 'production' into prd_release</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cefcd54</div>
+                                        <div class="message">Merge branch 'main' into production</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a30bb45</div>
+                                        <div class="message">Merge branch 'develop'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9275a30</div>
+                                        <div class="message">Remote config improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6512b3</div>
+                                        <div class="message">Inapp review holdback fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fe92ba</div>
+                                        <div class="message">cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#440b1e2</div>
+                                        <div class="message">Merge branch 'develop'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf53ce8</div>
+                                        <div class="message">Merge branch 'develop' into production</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd43904</div>
+                                        <div class="message">Fix Already Existing File Dialog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d65ffd</div>
+                                        <div class="message">Merge branch 'develop' into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4eb77fc</div>
+                                        <div class="message">Merge branch 'hotfix/wallpaperview_crash' into main</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -103,156 +303,6 @@
                                     <div class="commit">
                                         <div class="sha">#520e692</div>
                                         <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UnFunnyGuy/UnFunnyGuy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#52c7013</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UnFunnyGuy/UnFunnyGuy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#891c651</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UnFunnyGuy/Kocipe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#937370d</div>
-                                        <div class="message">Account Registration Init</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">UnFunnyGuy/Kocipe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#27200fc</div>
-                                        <div class="message">Feature plugin
-
-includes basic configurations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b35bbfa</div>
-                                        <div class="message">update gitignore</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#388f2fa</div>
-                                        <div class="message">Room Plugin Imprv</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">UnFunnyGuy/Kocipe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#93ab3e4</div>
-                                        <div class="message">refactor to kocipe</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#792c337</div>
-                                        <div class="message">Fix:  "Unable to make progress running work" [BS]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfcba1c</div>
-                                        <div class="message">feature:: onboarding(welcome_flow)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">UnFunnyGuy/compose-framework</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8ab9a2d</div>
-                                        <div class="message">@Composable function to handle UIEvent from a screen more effortlessly</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49f92c7</div>
-                                        <div class="message">new components module</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34a96f8</div>
-                                        <div class="message">cleanup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5dc27d9</div>
-                                        <div class="message">Improved Systembarcolors util</div>
                                     </div>
                                 </div>
                             </section>
