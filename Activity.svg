@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="717" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="833" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}svg.bar{margin:4px 0}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,183 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sarathWac/Wacpro-kmp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c872cd2</div>
+                                        <div class="message">fix: authentication webview windowinsets</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sarathWac/Wacpro-kmp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#24a6f2c</div>
+                                        <div class="message">feat: Home Screen - Loading Indicators and Data Syncing
+
+This commit enhances the Home screen with loading indicators and data syncing improvements.
+
+- **Loading Indicators:**
+  - Added a `CircularProgressIndicator` to visually represent when data is being synced.
+  - Displays a "Coming Soon..." message when the sync is complete but no data is available.
+
+- **Data Syncing:**
+  - Moved the `syncActivityData` call to the `init` block to trigger syncing on ViewModel initialization.
+  - Added a call to `getActivityGraphItems` after successful data syncing to update the UI with the latest data.
+  - The activity graph items are now fetched after the data is synced, ensuring the UI reflects the most current information.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sarathWac/Wacpro-kmp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#baea8d3</div>
+                                        <div class="message">feat: ActivityGraph animation easing
+
+This commit updates the easing function for animations in the `ActivityGraph` composable.
+
+- The easing function for `animatedBgColor` and `animateTextColor` has been changed from `FastOutSlowInEasing` to `FastOutLinearInEasing`.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">sarathWac/Wacpro-kmp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ba24755</div>
+                                        <div class="message">feat: Enhance home screen with activity graph and data sync improvements
+
+This commit enhances the home screen by adding an activity graph and improves data synchronization.
+
+- **Activity Graph:**
+  - Implemented an `ActivityGraph` composable to display user activity data visually.
+  - Added `ActivityGraphItem` data class to represent activity data for the graph.
+  - Created `GetActivityGraphItemsUseCase` to fetch activity graph data from the repository.
+  - Integrated the graph into the home screen, showing a placeholder initially and updating with fetched data.
+
+- **Data Synchronization:**
+  - Increased the daily activity sync time limit to 30 minutes to reduce frequent syncing.
+  - Added logic to sync activity data on the home screen and display a loading state during the process.
+
+- **UI Improvements:**
+  - Adjusted padding and styling of the top bar for better visual appeal.
+  - Added custom font support for specific text elements.
+  - Implemented color utilities for activity-related visual elements.
+
+- **Dependencies:**
+  - Updated Kotlin version to 2.1.20-RC2.
+  - Updated Ktor version to 3.1.2.
+  - Updated Kermit version to 2.0.5.
+  - Updated androidx.room version to 2.7.0-rc03.
+  - Updated sqlite version to 2.5.0-rc03.
+  - Added kotlinx-collections-immutable dependency with version 0.3.8.
+
+- **Code Refactoring:**
+  - Added a `LocalDateTimeConverter` for Room database to handle `LocalDate` conversions.
+  - Created `ActivityGraphItemResult` to map database results to `ActivityGraphItem`.
+  - Introduced `CustomCalendarHelper` to generate date ranges for the activity graph.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c6feca</div>
+                                        <div class="message">feat: Add `todayLocalDate` property to `DateTimeUtil`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d558eb5</div>
+                                        <div class="message">feat: custom calendar util improvements and  test changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8f8892</div>
+                                        <div class="message">feat: compose hot reload
+
+for jvm target and i am not using anything on jvm as of now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0df7f6a</div>
+                                        <div class="message">feat: Add CustomCalendarHelper for date range generation
+
+This commit introduces `CustomCalendarHelper`, a utility object for generating date ranges, specifically for calculating week ranges.
+
+- **`CustomCalendarHelper`:**
+  - Provides functions to generate a list of weeks, each containing a list of `LocalDate` objects.
+  - `generateDateRange`: Generates a date range of specified weeks (defaulting to 4) based on a start date.
+  - `generateWeek`: Generates a list of dates for a week starting from a given Monday.
+  - `getMondayOfWeek`: Determines the Monday of the week for a given date.
+  - `formatWeek`: Formats a week's dates into a string.
+- **Unit Tests:**
+  - Added `CustomCalendarHelperTest` with a test case to verify the correct generation of a 4-week date range.
+  - Validates the number of weeks, days per week, chronological order, and date consistency between weeks.
+  - Includes checks against specific known dates to ensure accuracy.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f15245a</div>
+                                        <div class="message">feat: Enhance data syncing and time management
+
+This commit introduces enhancements to data syncing and time management within the application.
+
+- **Data Syncing Improvements:**
+  - Implemented a mechanism to prevent frequent data syncing by checking the last sync time. Data will only sync if the last sync was more than 10 minutes ago.
+  - Modified the app's initial data sync to fetch a month's worth of data instead of a week.
+
+- **Time Management:**
+  - Added a utility function `isTimeWithinLimit` in `DateTimeUtil` to check if a given timestamp is within a specified duration limit.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6577c9</div>
+                                        <div class="message">feat: endpoints const for daily-activity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2845c1</div>
+                                        <div class="message">feat: NetworkBoundResource improvements</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -193,88 +370,6 @@ This commit introduces a logger in `BaseViewModel`
                                     <div class="commit">
                                         <div class="sha">#0af923e</div>
                                         <div class="message">improve: api body parsing error response</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Open-Aura/aura-backend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/database_improvement</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#26c69ee</div>
-                                        <div class="message">test: add unit tests for database connection setup</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Open-Aura/aura-backend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/group_chat</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#924be6f</div>
-                                        <div class="message">feat: add invitation code functionality and related services</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Open-Aura/aura-backend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/group_chat</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#52f6b5e</div>
-                                        <div class="message">join groups with invitation codes
-
-- few cleanups and refactor</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Open-Aura/aura-backend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e2da7b9</div>
-                                        <div class="message">Update static page with improved layout and added content.</div>
                                     </div>
                                 </div>
                             </section>
