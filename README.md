@@ -3,7 +3,7 @@
 </p>
 
 - 🌱 I’m currently learning [RUST](https://www.rust-lang.org/)(will take a while..).
-- 📱 Device I own is [Poco F5](https://www.gsmarena.com/xiaomi_poco_f5-12258.php) (marble) #derpfest.
+- 📱 Device I own is [Poco F5](https://www.gsmarena.com/xiaomi_poco_f5-12258.php) (marble).
 
 ### 📦 My Apps
 
@@ -57,4 +57,4 @@
 ### 💻 Current working environments
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
-[![Android 13](https://img.shields.io/badge/Android13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
+[![Android 15](https://img.shields.io/badge/Android15-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-15/)
