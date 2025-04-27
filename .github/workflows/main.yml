@@ -39,7 +39,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 15
           plugin_activity_days: 90
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create,
+          plugin_activity_filter: push, issue, pr, fork,
 
       - name: 📉 Recent activity charts
         if: ${{ success() || failure() }}
