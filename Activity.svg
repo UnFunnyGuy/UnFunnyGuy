@@ -23,6 +23,36 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">UnFunnyGuy/Elegant-Splash-Revamp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a0ed975</div>
+                                        <div class="message">Adds wallpaper management functionality
+
+Adds functionality for downloading and applying wallpapers.
+
+The changes include:
+- Implements a repository for managing wallpaper downloads and application
+- Introduces new data models for wallpaper actions and file management
+- Sets up Koin modules for dependency injection
+- Introduces WorkManager to handle background wallpaper operations
+- Adds notification service for user feedback on wallpaper operations
+- Updates the manifest with required permissions and file provider configuration</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">sarathWac/Wacpro-kmp</span>
                                     </div>
                                 </div>
@@ -341,32 +371,6 @@ Adds a new tab to the home screen to display the non-curated photos.</div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#870505b</div>
-                                        <div class="message">Adds home screen with curated photo list
-
-Implements a home screen featuring a tabbed interface.
-
-Adds curated and non-curated photo list tabs.
-Adds sliding animations for navigation transitions.
-Utilizes paging library for efficient data loading.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UnFunnyGuy/Elegant-Splash-Revamp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
                                         <div class="sha">#870505b</div>
                                         <div class="message">Adds home screen with curated photo list
