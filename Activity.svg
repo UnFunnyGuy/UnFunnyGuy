@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1041" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1191" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,62 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">Zamorinstech/android-parkzapp-v2.8</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7e2aede</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/develop' into develop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c01f15d</div>
+                                        <div class="message"># issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#820186f</div>
+                                        <div class="message">Work order notes replace bug fixed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e3f31c</div>
+                                        <div class="message">Work order notes replace bug fixed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ef7a94</div>
+                                        <div class="message">Work order notes replace bug fixed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb71774</div>
+                                        <div class="message">Merge branch 'release/2.9.5' into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e95519</div>
+                                        <div class="message">Merge branch 'release/2.9.4' into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#507a732</div>
+                                        <div class="message">Merge branch 'release/2.9.3' into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff63143</div>
+                                        <div class="message">Merge branch 'develop'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c8d174</div>
+                                        <div class="message">Merge branch 'release/v_2.9.0' into main</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -355,26 +411,6 @@ The navigation now utilizes shared transitions for a more visually appealing exp
                                     <div class="commit">
                                         <div class="sha">#52c2253</div>
                                         <div class="message">update readme</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UnFunnyGuy/Elegant-Splash-Revamp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6e1eac6</div>
-                                        <div class="message">initial wallpaper details screen</div>
                                     </div>
                                 </div>
                             </section>
