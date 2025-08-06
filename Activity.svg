@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1089" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1072" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,32 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sarathWac/Wacpro-kmp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1f1d530</div>
+                                        <div class="message">Improves data synchronization progress reporting
+
+Refines the progress reporting during data synchronization to provide a more accurate and user-friendly experience.
+
+The changes adjust the progress milestones to better reflect the time spent on fetching data and saving it to the database.
+
+Updates the sync strategy to handle cases where data should be synced based on the latest activity, ensuring data consistency.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -380,38 +406,6 @@ This includes changes to the `BackgroundTask` interface and its
 implementation, as well as updates to how task status is tracked and
 displayed. Removes the direct scheduling of tasks from the view model
 to decouple presentation from background work scheduling.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">sarathWac/Wacpro-kmp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#625c114</div>
-                                        <div class="message">More background Task module improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5bc9e4</div>
-                                        <div class="message">Adds notification permission handling
-
-Implements notification permission request flow using moko-permissions library.
-This includes adding necessary dependencies, updating the AndroidManifest,
-creating a PermissionScreen, and a PermissionViewModel to handle permission logic.
-
-The SyncScreen is updated to navigate to the new PermissionScreen if permission
-is not granted, and the navigation flow is adjusted to handle the permission
-request during the onboarding process.</div>
                                     </div>
                                 </div>
                             </section>
