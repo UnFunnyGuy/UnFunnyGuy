@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="509" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" class="">
     <defs>
         <style/>
     </defs>
@@ -118,70 +118,6 @@ Refines the progress reporting during data synchronization to provide a more acc
 The changes adjust the progress milestones to better reflect the time spent on fetching data and saving it to the database.
 
 Updates the sync strategy to handle cases where data should be synced based on the latest activity, ensuring data consistency.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">UnFunnyGuy/Elegant-Splash-Revamp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/wallpaper_imprv</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9d461a2</div>
-                                        <div class="message">use then modifier to keep the image animation
-not ideal, but will fix later</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9380ea5</div>
-                                        <div class="message">fix file size fetching</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c061c1</div>
-                                        <div class="message">🔨 Implements "Apply With" wallpaper functionality
-
-Adds a dialog to allow users to choose how to apply a wallpaper (Home, Lock, Both, or "Apply With" external app).
-
-- Adds `ApplyDialog` composable for selecting wallpaper application options.
-- Updates `WallpaperAction` enum to include titles and a list of apply actions.
-- Implements `BitmapUtil` to create temporary URI from Bitmap for sharing with other apps and to clean up temporary files.
-- Modifies `WallpaperApplier` to handle "Apply With" intent, using a temporary URI.
-- Updates `WallpaperDetailsViewModel` and UI states/actions to manage the apply dialog.
-- Updates `AndroidManifest.xml` to use dynamic application ID for FileProvider authority and adds necessary cache paths.
-- Adds new string resources for the apply dialog.
-- Adds `onDestroy` in `MainActivity` to cleanup temporary files.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7bad711</div>
-                                        <div class="message">Implement wallpaper scroll while on full screen preview</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">UnFunnyGuy/Elegant-Splash-Revamp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d58dc01</div>
-                                        <div class="message">User Profile Basic Implementation</div>
                                     </div>
                                 </div>
                             </section>
